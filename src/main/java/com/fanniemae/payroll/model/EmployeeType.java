@@ -55,6 +55,6 @@ public class EmployeeType {
 
 	
 	
-		return "EmployeeType [type=" + type + ", salary=" + salary + ", hoursWorked=" + hoursWorked + "]";
+	//	return "EmployeeType [type=" + type + ", salary=" + salary + ", hoursWorked=" + hoursWorked + "]";
 	
 }}
